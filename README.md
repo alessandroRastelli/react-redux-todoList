@@ -1,4 +1,7 @@
 # react-redux-todoList
 
-npm install
-npm start
+## Let's start
+```
+  npm install
+  npm start
+```
